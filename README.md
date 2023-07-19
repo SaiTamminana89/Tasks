@@ -1,1 +1,1 @@
-# Tasks
+# Implementation of Voice Cloning using SppechT5 Pretrained model that was tasken from hugging face transformers library and it was fine tuned on VoxPopuli and it is a large-scale multilingual speech corpus consisting of data sourced from 2009-2020 European Parliament event recordings.
